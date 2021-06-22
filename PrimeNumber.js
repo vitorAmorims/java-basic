@@ -33,4 +33,3 @@ function verificarNumeroPrimo(isNumber){
       console.log("Impossivel calcular");
   }   
 }
-// nodeJS
